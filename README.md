@@ -10,3 +10,6 @@ First version supported phones with SuperSU apk only. This version, the second, 
 
 This was very usefull back at that time, maybe it will usefull for someone today.
 I personally tested it in over 100 phones from Samsung mostly and some HTC.
+
+# Download
+Compiled apk for this version can be found at https://www.yurguis.com/wifix/
